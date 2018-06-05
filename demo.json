@@ -1,0 +1,515 @@
+{
+  "status": "success",
+  "error_code": 0,
+  "error_message": "",
+  "data": {
+    "rooms": [
+      {
+        "id": "60173656",
+        "house_id": "60029094",
+        "code": "BJZRHD28239543_03",
+        "house_code": "BJZRHD28239543",
+        "status": "ycz",
+        "turn": 1,
+        "type": 1,
+        "name": "东王庄3居室-南卧",
+        "price": 3060,
+        "area": "11.4",
+        "price_unit": "元/月",
+        "bedroom": 3,
+        "parlor": 1,
+        "resblock_id": "1111027373961",
+        "resblock_name": "东王庄",
+        "lng": 116.347007,
+        "lat": 40.004589,
+        "face": "南",
+        "photo": "https://img.ziroom.com/pic/house_images/g2/M00/82/B9/ChAFfVneMUqAckyxAAyAVeS1we8176.JPG_C_240_180_Q100.jpg",
+        "photo_webp": "https://img.ziroom.com/pic/house_images/g2/M00/82/B9/ChAFfVneMUqAckyxAAyAVeS1we8176.JPG_C_240_180_Q100.webp",
+        "photo_min": "https://img.ziroom.com/pic/house_images/g2/M00/82/B9/ChAFfVneMUqAckyxAAyAVeS1we8176.JPG_C_240_180_Q100.jpg",
+        "photo_min_webp": "https://img.ziroom.com/pic/house_images/g2/M00/82/B9/ChAFfVneMUqAckyxAAyAVeS1we8176.JPG_C_240_180_Q100.webp",
+        "floor_total": "6",
+        "floor": "4",
+        "will_unrent_date": "20180623",
+        "subway_station_info": "距15号线清华东路西口站231米",
+        "tags": [
+          {
+            "title": "自如客转租"
+          },
+          {
+            "title": "集体供暖"
+          },
+          {
+            "title": "拿铁3.0"
+          }
+        ],
+        "type_text": "[转]自如友家"
+      },
+      {
+        "id": "60006159",
+        "house_id": "60001055",
+        "code": "BJZRHD01471517_01",
+        "house_code": "BJZRHD01471517",
+        "status": "ycz",
+        "turn": 1,
+        "type": 1,
+        "name": "东王庄2居室-南卧",
+        "price": 3890,
+        "area": "14.7",
+        "price_unit": "元/月",
+        "bedroom": 2,
+        "parlor": 1,
+        "resblock_id": "1111027373961",
+        "resblock_name": "东王庄",
+        "lng": 116.347007,
+        "lat": 40.004589,
+        "face": "南",
+        "photo": "https://img.ziroom.com/pic/house_images/BJZRHD01471517/BJZRHD01471517_01/images/20161228204604612_F.JPG_C_240_180_Q100.jpg",
+        "photo_webp": "https://img.ziroom.com/pic/house_images/BJZRHD01471517/BJZRHD01471517_01/images/20161228204604612_F.JPG_C_240_180_Q100.webp",
+        "photo_min": "https://img.ziroom.com/pic/house_images/BJZRHD01471517/BJZRHD01471517_01/images/20161228204604612_F.JPG_C_240_180_Q100.jpg",
+        "photo_min_webp": "https://img.ziroom.com/pic/house_images/BJZRHD01471517/BJZRHD01471517_01/images/20161228204604612_F.JPG_C_240_180_Q100.webp",
+        "floor_total": "6",
+        "floor": "1",
+        "will_unrent_date": "20180618",
+        "subway_station_info": "距15号线清华东路西口站231米",
+        "tags": [
+          {
+            "title": "自如客转租"
+          },
+          {
+            "title": "集体供暖"
+          },
+          {
+            "title": "木棉3.0"
+          }
+        ],
+        "type_text": "[转]自如友家"
+      },
+      {
+        "id": "60394617",
+        "house_id": "60063934",
+        "code": "BJZRGY081753276_01",
+        "house_code": "BJZRGY081753276",
+        "status": "ycz",
+        "turn": 1,
+        "type": 1,
+        "name": "西郊宾馆3居室-南卧",
+        "price": 3090,
+        "area": "12.7",
+        "price_unit": "元/月",
+        "bedroom": 3,
+        "parlor": 1,
+        "resblock_id": "1111027380912",
+        "resblock_name": "西郊宾馆",
+        "lng": 116.349333,
+        "lat": 40.002448,
+        "face": "南",
+        "photo": "https://img.ziroom.com/pic/house_images/g2/M00/0A/12/ChAFD1ptqOqAFkflAAzpDnQAccQ941.JPG_C_240_180_Q100.jpg",
+        "photo_webp": "https://img.ziroom.com/pic/house_images/g2/M00/0A/12/ChAFD1ptqOqAFkflAAzpDnQAccQ941.JPG_C_240_180_Q100.webp",
+        "photo_min": "https://img.ziroom.com/pic/house_images/g2/M00/0A/12/ChAFD1ptqOqAFkflAAzpDnQAccQ941.JPG_C_240_180_Q100.jpg",
+        "photo_min_webp": "https://img.ziroom.com/pic/house_images/g2/M00/0A/12/ChAFD1ptqOqAFkflAAzpDnQAccQ941.JPG_C_240_180_Q100.webp",
+        "floor_total": "3",
+        "floor": "1",
+        "will_unrent_date": "20180622",
+        "subway_station_info": "距15号线清华东路西口站540米",
+        "tags": [
+          {
+            "title": "自如客转租"
+          },
+          {
+            "title": "集体供暖"
+          },
+          {
+            "title": "拿铁4.0"
+          }
+        ],
+        "type_text": "[转]自如友家"
+      },
+      {
+        "id": "60912089",
+        "house_id": "60146743",
+        "code": "BJZRGY0817154839_02",
+        "house_code": "BJZRGY0817154839",
+        "status": "ycz",
+        "turn": 1,
+        "type": 1,
+        "name": "建清园3居室-西卧",
+        "price": 2630,
+        "area": "6.8",
+        "price_unit": "元/月",
+        "bedroom": 3,
+        "parlor": 1,
+        "resblock_id": "1111027377320",
+        "resblock_name": "建清园",
+        "lng": 116.354713,
+        "lat": 40.02098,
+        "face": "西",
+        "photo": "https://img.ziroom.com/pic/house_images/g2/M00/D6/A6/ChAFfVpA1oKAPH1AAAeISun8wxM319.JPG_C_240_180_Q100.jpg",
+        "photo_webp": "https://img.ziroom.com/pic/house_images/g2/M00/D6/A6/ChAFfVpA1oKAPH1AAAeISun8wxM319.JPG_C_240_180_Q100.webp",
+        "photo_min": "https://img.ziroom.com/pic/house_images/g2/M00/D6/A6/ChAFfVpA1oKAPH1AAAeISun8wxM319.JPG_C_240_180_Q100.jpg",
+        "photo_min_webp": "https://img.ziroom.com/pic/house_images/g2/M00/D6/A6/ChAFfVpA1oKAPH1AAAeISun8wxM319.JPG_C_240_180_Q100.webp",
+        "floor_total": "7",
+        "floor": "6",
+        "will_unrent_date": "20180610",
+        "subway_station_info": "距15号线六道口站1630米",
+        "tags": [
+          {
+            "title": "自如客转租"
+          },
+          {
+            "title": "短租"
+          },
+          {
+            "title": "米苏4.0"
+          }
+        ],
+        "type_text": "[转]自如友家"
+      },
+      {
+        "id": "304778",
+        "house_id": "47809",
+        "code": "BJZRHD63398274_03",
+        "house_code": "BJZRHD63398274",
+        "status": "ycz",
+        "turn": 1,
+        "type": 1,
+        "name": "石油大院3居室-北卧",
+        "price": 99,
+        "area": "12",
+        "price_unit": "元/天",
+        "bedroom": 3,
+        "parlor": 1,
+        "resblock_id": "1111027379638",
+        "resblock_name": "石油大院",
+        "lng": 116.371187,
+        "lat": 40.00245,
+        "face": "北",
+        "photo": "https://img.ziroom.com/pic/house_images/g2/M00/E9/82/ChAFD1pTliyACxQaAA24tUVcADw211.JPG_C_240_180_Q100.jpg",
+        "photo_webp": "https://img.ziroom.com/pic/house_images/g2/M00/E9/82/ChAFD1pTliyACxQaAA24tUVcADw211.JPG_C_240_180_Q100.webp",
+        "photo_min": "https://img.ziroom.com/pic/house_images/g2/M00/E9/82/ChAFD1pTliyACxQaAA24tUVcADw211.JPG_C_240_180_Q100.jpg",
+        "photo_min_webp": "https://img.ziroom.com/pic/house_images/g2/M00/E9/82/ChAFD1pTliyACxQaAA24tUVcADw211.JPG_C_240_180_Q100.webp",
+        "floor_total": "6",
+        "floor": "3",
+        "will_unrent_date": "20180616",
+        "subway_station_info": "距15号线北沙滩站679米",
+        "tags": [
+          {
+            "title": "自如客转租"
+          },
+          {
+            "title": "短租"
+          },
+          {
+            "title": "木棉4.0"
+          }
+        ],
+        "type_text": "[转]自如友家"
+      },
+      {
+        "id": "261591",
+        "house_id": "40162",
+        "code": "BJZRHD12187780_03",
+        "house_code": "BJZRHD12187780",
+        "status": "ycz",
+        "turn": 1,
+        "type": 1,
+        "name": "静淑东里3居室-东卧",
+        "price": 3190,
+        "area": "11",
+        "price_unit": "元/月",
+        "bedroom": 3,
+        "parlor": 1,
+        "resblock_id": "1111027377336",
+        "resblock_name": "静淑东里",
+        "lng": 116.358225,
+        "lat": 40.010053,
+        "face": "东",
+        "photo": "https://img.ziroom.com/pic/house_images/g2/M00/50/B8/ChAFD1qvi4KAOLxnAAtLRkUhQnY409.JPG_C_240_180_Q100.jpg",
+        "photo_webp": "https://img.ziroom.com/pic/house_images/g2/M00/50/B8/ChAFD1qvi4KAOLxnAAtLRkUhQnY409.JPG_C_240_180_Q100.webp",
+        "photo_min": "https://img.ziroom.com/pic/house_images/g2/M00/50/B8/ChAFD1qvi4KAOLxnAAtLRkUhQnY409.JPG_C_240_180_Q100.jpg",
+        "photo_min_webp": "https://img.ziroom.com/pic/house_images/g2/M00/50/B8/ChAFD1qvi4KAOLxnAAtLRkUhQnY409.JPG_C_240_180_Q100.webp",
+        "floor_total": "14",
+        "floor": "4",
+        "will_unrent_date": "20180609",
+        "subway_station_info": "距15号线六道口站379米",
+        "tags": [
+          {
+            "title": "自如客转租"
+          },
+          {
+            "title": "短租"
+          },
+          {
+            "title": "米苏3.0"
+          }
+        ],
+        "type_text": "[转]自如友家"
+      },
+      {
+        "id": "179628",
+        "house_id": "25836",
+        "code": "BJHD88228030_01",
+        "house_code": "BJHD88228030",
+        "status": "ycz",
+        "turn": 1,
+        "type": 1,
+        "name": "王庄路15号院3居室-南卧",
+        "price": 3360,
+        "area": "10.6",
+        "price_unit": "元/月",
+        "bedroom": 3,
+        "parlor": 1,
+        "resblock_id": "1111027380543",
+        "resblock_name": "王庄路15号院",
+        "lng": 116.346012,
+        "lat": 40.002554,
+        "face": "南",
+        "photo": "https://img.ziroom.com/pic/house_images/g2/M00/E8/CD/ChAFD1pTPD2APi4mAAxYsuwkTiI088.JPG_C_240_180_Q100.jpg",
+        "photo_webp": "https://img.ziroom.com/pic/house_images/g2/M00/E8/CD/ChAFD1pTPD2APi4mAAxYsuwkTiI088.JPG_C_240_180_Q100.webp",
+        "photo_min": "https://img.ziroom.com/pic/house_images/g2/M00/E8/CD/ChAFD1pTPD2APi4mAAxYsuwkTiI088.JPG_C_240_180_Q100.jpg",
+        "photo_min_webp": "https://img.ziroom.com/pic/house_images/g2/M00/E8/CD/ChAFD1pTPD2APi4mAAxYsuwkTiI088.JPG_C_240_180_Q100.webp",
+        "floor_total": "6",
+        "floor": "1",
+        "will_unrent_date": "20180619",
+        "subway_station_info": "距15号线清华东路西口站421米",
+        "tags": [
+          {
+            "title": "自如客转租"
+          },
+          {
+            "title": "短租"
+          },
+          {
+            "title": "原味4.0"
+          }
+        ],
+        "type_text": "[转]自如友家"
+      },
+      {
+        "id": "60887363",
+        "house_id": "60142663",
+        "code": "BJZRGY0817150604_03",
+        "house_code": "BJZRGY0817150604",
+        "status": "ycz",
+        "turn": 1,
+        "type": 1,
+        "name": "城华园3居室-北卧",
+        "price": 2890,
+        "area": "8.57",
+        "price_unit": "元/月",
+        "bedroom": 3,
+        "parlor": 1,
+        "resblock_id": "1111027376447",
+        "resblock_name": "城华园",
+        "lng": 116.358543,
+        "lat": 40.017542,
+        "face": "北",
+        "photo": "https://img.ziroom.com/pic/house_images/g2/M00/CA/7C/ChAFfVoz04KAWS2xAAeVardtkrc142.JPG_C_240_180_Q100.jpg",
+        "photo_webp": "https://img.ziroom.com/pic/house_images/g2/M00/CA/7C/ChAFfVoz04KAWS2xAAeVardtkrc142.JPG_C_240_180_Q100.webp",
+        "photo_min": "https://img.ziroom.com/pic/house_images/g2/M00/CA/7C/ChAFfVoz04KAWS2xAAeVardtkrc142.JPG_C_240_180_Q100.jpg",
+        "photo_min_webp": "https://img.ziroom.com/pic/house_images/g2/M00/CA/7C/ChAFfVoz04KAWS2xAAeVardtkrc142.JPG_C_240_180_Q100.webp",
+        "floor_total": "6",
+        "floor": "4",
+        "will_unrent_date": "20180702",
+        "subway_station_info": "距15号线六道口站1204米",
+        "tags": [
+          {
+            "title": "自如客转租"
+          },
+          {
+            "title": "短租"
+          },
+          {
+            "title": "米苏4.0"
+          }
+        ],
+        "type_text": "[转]自如友家"
+      },
+      {
+        "id": "83100",
+        "house_id": "10570",
+        "code": "BJHD85744839_03",
+        "house_code": "BJHD85744839",
+        "status": "ycz",
+        "turn": 1,
+        "type": 1,
+        "name": "王庄路15号院3居室-东卧",
+        "price": 3660,
+        "area": "10.8",
+        "price_unit": "元/月",
+        "bedroom": 3,
+        "parlor": 1,
+        "resblock_id": "1111027380543",
+        "resblock_name": "王庄路15号院",
+        "lng": 116.346012,
+        "lat": 40.002554,
+        "face": "东",
+        "photo": "https://img.ziroom.com/pic/house_images/g2/M00/80/46/ChAFfVnaJ_uAGl4VAAhaTFPwhMM557.JPG_C_240_180_Q100.jpg",
+        "photo_webp": "https://img.ziroom.com/pic/house_images/g2/M00/80/46/ChAFfVnaJ_uAGl4VAAhaTFPwhMM557.JPG_C_240_180_Q100.webp",
+        "photo_min": "https://img.ziroom.com/pic/house_images/g2/M00/80/46/ChAFfVnaJ_uAGl4VAAhaTFPwhMM557.JPG_C_240_180_Q100.jpg",
+        "photo_min_webp": "https://img.ziroom.com/pic/house_images/g2/M00/80/46/ChAFfVnaJ_uAGl4VAAhaTFPwhMM557.JPG_C_240_180_Q100.webp",
+        "floor_total": "6",
+        "floor": "2",
+        "will_unrent_date": "20180611",
+        "subway_station_info": "距15号线清华东路西口站421米",
+        "tags": [
+          {
+            "title": "自如客转租"
+          },
+          {
+            "title": "短租"
+          },
+          {
+            "title": "木棉4.0"
+          }
+        ],
+        "type_text": "[转]自如友家"
+      },
+      {
+        "id": "124622",
+        "house_id": "17128",
+        "code": "BJHD86815983_02",
+        "house_code": "BJHD86815983",
+        "status": "ycz",
+        "turn": 1,
+        "type": 1,
+        "name": "逸成东苑3居室-北卧",
+        "price": 2660,
+        "area": "9.13",
+        "price_unit": "元/月",
+        "bedroom": 3,
+        "parlor": 1,
+        "resblock_id": "1111027381533",
+        "resblock_name": "逸成东苑",
+        "lng": 116.35572,
+        "lat": 40.01918,
+        "face": "北",
+        "photo": "https://img.ziroom.com/pic/house_images/g2/M00/50/F3/ChAFFVjniLGAFnjMAAIbYBOaX1U266.JPG_C_240_180_Q100.jpg",
+        "photo_webp": "https://img.ziroom.com/pic/house_images/g2/M00/50/F3/ChAFFVjniLGAFnjMAAIbYBOaX1U266.JPG_C_240_180_Q100.webp",
+        "photo_min": "https://img.ziroom.com/pic/house_images/g2/M00/50/F3/ChAFFVjniLGAFnjMAAIbYBOaX1U266.JPG_C_240_180_Q100.jpg",
+        "photo_min_webp": "https://img.ziroom.com/pic/house_images/g2/M00/50/F3/ChAFFVjniLGAFnjMAAIbYBOaX1U266.JPG_C_240_180_Q100.webp",
+        "floor_total": "22",
+        "floor": "1",
+        "will_unrent_date": "20180612",
+        "subway_station_info": "距15号线六道口站1416米",
+        "tags": [
+          {
+            "title": "自如客转租"
+          },
+          {
+            "title": "短租"
+          },
+          {
+            "title": "4.0"
+          }
+        ],
+        "type_text": "[转]自如友家"
+      }
+    ],
+    "options": {
+      "live": [
+        {
+          "value": 1,
+          "title": "自己",
+          "children": {
+            "type": [
+              {
+                "show": "合租",
+                "type": 1,
+                "value": "1",
+                "title": "不限"
+              },
+              {
+                "show": "整租一居",
+                "type": 2,
+                "value": "11",
+                "title": "1居"
+              }
+            ]
+          }
+        },
+        {
+          "value": 2,
+          "title": "情侣、朋友",
+          "children": {
+            "type": [
+              {
+                "show": "合租",
+                "type": 1,
+                "value": "1",
+                "title": "不限"
+              },
+              {
+                "show": "整租一居",
+                "type": 2,
+                "value": "11",
+                "title": "1居"
+              }
+            ]
+          }
+        },
+        {
+          "value": 3,
+          "title": "小孩",
+          "children": {
+            "type": [
+              {
+                "show": "整租二居",
+                "type": 2,
+                "value": "12",
+                "title": "2居"
+              },
+              {
+                "show": "整租一居",
+                "type": 2,
+                "value": "11",
+                "title": "1居"
+              }
+            ]
+          }
+        },
+        {
+          "value": 4,
+          "title": "老人",
+          "children": {
+            "type": [
+              {
+                "show": "整租二居",
+                "type": 2,
+                "value": "12",
+                "title": "2居"
+              },
+              {
+                "show": "整租三居",
+                "type": 2,
+                "value": "13",
+                "title": "3居"
+              }
+            ]
+          }
+        },
+        {
+          "value": 5,
+          "title": "老人&小孩",
+          "children": {
+            "type": [
+              {
+                "show": "整租三居",
+                "type": 2,
+                "value": "13",
+                "title": "3居"
+              },
+              {
+                "show": "整租二居",
+                "type": 2,
+                "value": "12",
+                "title": "2居"
+              }
+            ]
+          }
+        }
+      ],
+      "price": [],
+      "adv_one": "http://contentful.ziroom.com/online/zuzhu/bjapp/0f28b5d49b3020afeecd95b4009adf4c.json"
+    }
+  }
+}
