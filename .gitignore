@@ -1,0 +1,10 @@
+.pyc
+*.pyc
+test/
+.idea/
+__pycache__/
+log/
+.DS_Store
+tests/
+*.db
+packages/*
