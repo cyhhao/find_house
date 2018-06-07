@@ -52,11 +52,14 @@ def write_file(filename, data):
 
 
 def read_file(filename):
-    ff = open(filename, "r")
-    content = ff.read()
-    ff.close()
+    try:
+        ff = open(filename, "r")
+        content = ff.read()
+        ff.close()
 
-    return simplejson.loads(content)
+        return simplejson.loads(content)
+    except:
+        return []
 
 
 def send_mail(to_mail, title, content):

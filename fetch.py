@@ -52,7 +52,7 @@ def get_www(villages):
             village_id=village["code"], location=LOCATION_STR
         ), headers=headers)
 
-        if not vill_res or not vill_res.json() or len(vill_res.json()["data"]["rooms"]) == 0:
+        if not vill_res or not vill_res.json() or not isinstance(vill_res.json()["data"], dict) or len(vill_res.json()["data"]["rooms"]) == 0:
             continue
 
         for i in vill_res.json()["data"]["rooms"]:
@@ -111,7 +111,7 @@ def get_m(villages):
                 continue
 
         result.append({
-            "id": _id, "status": "转租中", "price": mroom["price"], "area": mroom["area"], "name": mroom["name"],
+            "id": _id, "status": "转租中", "price": mroom["price"], "area": float(mroom["area"]), "name": mroom["name"],
             "url": HOUSE_URL.format(HOUSE_ID=_id)
         })
 
